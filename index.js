@@ -1,2 +1,2 @@
 console.log("Give a try to github")
-console.log("jahidul")
+console.log("jahidul khan")
